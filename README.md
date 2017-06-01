@@ -16,9 +16,9 @@ Getting started
 For the practical, you will need to work from a MAC or a linux machine (either locally, or remotely
 using ssh). Download the code package (https://github.com/Networks-Learning/ mlss-2017) and compile it as:
 
-$ cd code/ 
+    $ cd code/ 
 
-$ make
+    $ make
 
 Several warnings might appear when you compile the code package. As long as you do not get an Error message, you are fine. 
 
