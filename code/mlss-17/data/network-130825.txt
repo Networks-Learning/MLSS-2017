@@ -1,0 +1,134 @@
+1,Been Kim
+2,Adith Swaminathan
+3,Adrin Jalali
+4,Chris Lloyd
+5,Alberto Garcia-Duran
+6,Alice Schoenauer Sebag
+7,Alon Cohen
+8,Anastasia Pentina
+9,Andrew McDonald
+10,Archana Nottamkandath
+11,Arnaud Joly
+12,Audrey Durand
+13,Beyza Ermis
+14,Brooks Paige
+15,Calvin Seward
+16,Carlus Deneke
+17,Carmeline Dsilva
+18,Christoph Dann
+19,Christopher Ball
+20,Dan-Theodor Oneata
+21,Daniel Korzekwa
+22,Daniel Bengs
+23,David Reshef
+24,Diego Peteiro-Barral
+25,Dong Nguyen
+26,Douwe Kiela
+27,Efthymia Chrysanthidou
+28,Elsa Bernard
+29,Evan Archer
+30,Evelina Gabasova
+31,Faisal Mahmood
+32,Francesco Paolo Casale
+33,Fritz Hohl
+34,Gabriel Synnaeve
+35,Gertjan van den Burg
+36,Gina Grunhage
+37,Golnoosh Farnadi
+38,Guillaume Dehaene
+39,Hang Yu
+40,Hong Ge
+41,Hugo Grimmett
+42,Ingmar Schuster
+43,James McGuire
+44,Jana Jankova
+45,Jennifer Healey
+46,Johannes Kulick
+47,Jorge Guevara Diaz
+48,Julien-Charles Levesque
+49,Kairit Sirts
+50,Karolina Brodzka
+51,Karthik Raman
+52,Kartik Nanda
+53,Magda Gregorova
+54,Marco Adurno
+55,Maria Myrto Folia
+56,Marijn Stollenga
+57,Marinka Zitnik
+58,Mario Lucic
+59,Mark Blaxall
+60,Mark van der Wilk
+61,Markus Peters
+62,Marta Soare
+63,Martin Schiegg
+64,Marzyeh Ghassemi
+65,Matteo Pirotta
+66,Matthaus Kleindessner
+67,Matthew Meisner
+68,Matthias Kuemmerer
+69,Michael Kieweg
+70,Ming-Ming Cheng
+71,Molly Lewis
+72,Nelle Varoquaux
+73,Nora Speicher
+74,Peter Krafft
+75,Philipp Moritz
+76,Quoc Khanh DO
+77,Remi Lemonnier
+78,Rishi Relan
+79,Rowan McAllister
+80,Safiye Celik
+81,Samuel Ronnqvist
+82,Sarah Marzen
+83,Sarah Brown
+84,Sebastian Urban
+85,Shrihari Vasudevan
+86,Sofia Nikitaki
+87,Sowmya Vajjala Balakrishna
+88,Stefan Otte
+89,Susana Zoghbi
+90,Syeda Saleha Raza
+91,Teppo Niinim?ki
+92,Thomas Provoost
+93,Tobias Wissel
+94,Tom Gunter
+95,Tong Wang
+96,Xavier Mouy
+97,Yarin Gal
+98,Yoav Haimovitch
+99,Yuxin Chen
+100,Zhemin Zhu
+101,Philipp Hennig
+102,Shervin Safavi
+103,Bernhard Schoelkopf
+104,Chris Bishop
+105,Silvia
+106,Geiger
+107,Tatiana Fomina
+108,Chloe-Agathe Azencott
+109,Niko Schenk
+110,David Lopez-Paz
+111,Zoubin Ghahramani
+112,Safia
+113,Behza
+114,Becky
+115,Kejam
+116,Elena
+117,Manu
+118,Krikamol Muandet
+119,Timm Meyer
+
+25,87
+30,87
+51,87
+85,87
+3,81
+21,81
+49,81
+2,51
+4,9
+94,9
+41,9
+18,20
+47,20
+46,20

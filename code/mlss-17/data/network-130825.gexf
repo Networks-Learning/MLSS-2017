@@ -1,0 +1,405 @@
+<gexf xmlns="http://www.gexf.net/1.2draft"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xmlns:viz="http://www.gexf.net/1.1draft/viz"
+xsi:schemaLocation="http://www.gexf.net/1.1draft"
+version="1.1">
+
+<graph mode="static" defaultedgetype="directed">
+
+	<nodes>
+
+		<node id="1" label="Been Kim">
+
+		</node>
+		<node id="2" label="Adith Swaminathan">
+
+		</node>
+		<node id="3" label="Adrin Jalali">
+
+		</node>
+		<node id="4" label="Chris Lloyd">
+
+		</node>
+		<node id="5" label="Alberto Garcia-Duran">
+
+		</node>
+		<node id="6" label="Alice Schoenauer Sebag">
+
+		</node>
+		<node id="7" label="Alon Cohen">
+
+		</node>
+		<node id="8" label="Anastasia Pentina">
+
+		</node>
+		<node id="9" label="Andrew McDonald">
+
+		</node>
+		<node id="10" label="Archana Nottamkandath">
+
+		</node>
+		<node id="11" label="Arnaud Joly">
+
+		</node>
+		<node id="12" label="Audrey Durand">
+
+		</node>
+		<node id="13" label="Beyza Ermis">
+
+		</node>
+		<node id="14" label="Brooks Paige">
+
+		</node>
+		<node id="15" label="Calvin Seward">
+
+		</node>
+		<node id="16" label="Carlus Deneke">
+
+		</node>
+		<node id="17" label="Carmeline Dsilva">
+
+		</node>
+		<node id="18" label="Christoph Dann">
+
+		</node>
+		<node id="19" label="Christopher Ball">
+
+		</node>
+		<node id="20" label="Dan-Theodor Oneata">
+
+		</node>
+		<node id="21" label="Daniel Korzekwa">
+
+		</node>
+		<node id="22" label="Daniel Bengs">
+
+		</node>
+		<node id="23" label="David Reshef">
+
+		</node>
+		<node id="24" label="Diego Peteiro-Barral">
+
+		</node>
+		<node id="25" label="Dong Nguyen">
+
+		</node>
+		<node id="26" label="Douwe Kiela">
+
+		</node>
+		<node id="27" label="Efthymia Chrysanthidou">
+
+		</node>
+		<node id="28" label="Elsa Bernard">
+
+		</node>
+		<node id="29" label="Evan Archer">
+
+		</node>
+		<node id="30" label="Evelina Gabasova">
+
+		</node>
+		<node id="31" label="Faisal Mahmood">
+
+		</node>
+		<node id="32" label="Francesco Paolo Casale">
+
+		</node>
+		<node id="33" label="Fritz Hohl">
+
+		</node>
+		<node id="34" label="Gabriel Synnaeve">
+
+		</node>
+		<node id="35" label="Gertjan van den Burg">
+
+		</node>
+		<node id="36" label="Gina Grunhage">
+
+		</node>
+		<node id="37" label="Golnoosh Farnadi">
+
+		</node>
+		<node id="38" label="Guillaume Dehaene">
+
+		</node>
+		<node id="39" label="Hang Yu">
+
+		</node>
+		<node id="40" label="Hong Ge">
+
+		</node>
+		<node id="41" label="Hugo Grimmett">
+
+		</node>
+		<node id="42" label="Ingmar Schuster">
+
+		</node>
+		<node id="43" label="James McGuire">
+
+		</node>
+		<node id="44" label="Jana Jankova">
+
+		</node>
+		<node id="45" label="Jennifer Healey">
+
+		</node>
+		<node id="46" label="Johannes Kulick">
+
+		</node>
+		<node id="47" label="Jorge Guevara Diaz">
+
+		</node>
+		<node id="48" label="Julien-Charles Levesque">
+
+		</node>
+		<node id="49" label="Kairit Sirts">
+
+		</node>
+		<node id="50" label="Karolina Brodzka">
+
+		</node>
+		<node id="51" label="Karthik Raman">
+
+		</node>
+		<node id="52" label="Kartik Nanda">
+
+		</node>
+		<node id="53" label="Magda Gregorova">
+
+		</node>
+		<node id="54" label="Marco Adurno">
+
+		</node>
+		<node id="55" label="Maria Myrto Folia">
+
+		</node>
+		<node id="56" label="Marijn Stollenga">
+
+		</node>
+		<node id="57" label="Marinka Zitnik">
+
+		</node>
+		<node id="58" label="Mario Lucic">
+
+		</node>
+		<node id="59" label="Mark Blaxall">
+
+		</node>
+		<node id="60" label="Mark van der Wilk">
+
+		</node>
+		<node id="61" label="Markus Peters">
+
+		</node>
+		<node id="62" label="Marta Soare">
+
+		</node>
+		<node id="63" label="Martin Schiegg">
+
+		</node>
+		<node id="64" label="Marzyeh Ghassemi">
+
+		</node>
+		<node id="65" label="Matteo Pirotta">
+
+		</node>
+		<node id="66" label="Matthaus Kleindessner">
+
+		</node>
+		<node id="67" label="Matthew Meisner">
+
+		</node>
+		<node id="68" label="Matthias Kuemmerer">
+
+		</node>
+		<node id="69" label="Michael Kieweg">
+
+		</node>
+		<node id="70" label="Ming-Ming Cheng">
+
+		</node>
+		<node id="71" label="Molly Lewis">
+
+		</node>
+		<node id="72" label="Nelle Varoquaux">
+
+		</node>
+		<node id="73" label="Nora Speicher">
+
+		</node>
+		<node id="74" label="Peter Krafft">
+
+		</node>
+		<node id="75" label="Philipp Moritz">
+
+		</node>
+		<node id="76" label="Quoc Khanh DO">
+
+		</node>
+		<node id="77" label="Remi Lemonnier">
+
+		</node>
+		<node id="78" label="Rishi Relan">
+
+		</node>
+		<node id="79" label="Rowan McAllister">
+
+		</node>
+		<node id="80" label="Safiye Celik">
+
+		</node>
+		<node id="81" label="Samuel Ronnqvist">
+
+		</node>
+		<node id="82" label="Sarah Marzen">
+
+		</node>
+		<node id="83" label="Sarah Brown">
+
+		</node>
+		<node id="84" label="Sebastian Urban">
+
+		</node>
+		<node id="85" label="Shrihari Vasudevan">
+
+		</node>
+		<node id="86" label="Sofia Nikitaki">
+
+		</node>
+		<node id="87" label="Sowmya Vajjala Balakrishna">
+
+		</node>
+		<node id="88" label="Stefan Otte">
+
+		</node>
+		<node id="89" label="Susana Zoghbi">
+
+		</node>
+		<node id="90" label="Syeda Saleha Raza">
+
+		</node>
+		<node id="91" label="Teppo Niinim?ki">
+
+		</node>
+		<node id="92" label="Thomas Provoost">
+
+		</node>
+		<node id="93" label="Tobias Wissel">
+
+		</node>
+		<node id="94" label="Tom Gunter">
+
+		</node>
+		<node id="95" label="Tong Wang">
+
+		</node>
+		<node id="96" label="Xavier Mouy">
+
+		</node>
+		<node id="97" label="Yarin Gal">
+
+		</node>
+		<node id="98" label="Yoav Haimovitch">
+
+		</node>
+		<node id="99" label="Yuxin Chen">
+
+		</node>
+		<node id="100" label="Zhemin Zhu">
+
+		</node>
+		<node id="101" label="Philipp Hennig">
+
+		</node>
+		<node id="102" label="Shervin Safavi">
+
+		</node>
+		<node id="103" label="Bernhard Schoelkopf">
+
+		</node>
+		<node id="104" label="Chris Bishop">
+
+		</node>
+		<node id="105" label="Silvia">
+
+		</node>
+		<node id="106" label="Geiger">
+
+		</node>
+		<node id="107" label="Tatiana Fomina">
+
+		</node>
+		<node id="108" label="Chloe-Agathe Azencott">
+
+		</node>
+		<node id="109" label="Niko Schenk">
+
+		</node>
+		<node id="110" label="David Lopez-Paz">
+
+		</node>
+		<node id="111" label="Zoubin Ghahramani">
+
+		</node>
+		<node id="112" label="Safia">
+
+		</node>
+		<node id="113" label="Behza">
+
+		</node>
+		<node id="114" label="Becky">
+
+		</node>
+		<node id="115" label="Kejam">
+
+		</node>
+		<node id="116" label="Elena">
+
+		</node>
+		<node id="117" label="Manu">
+
+		</node>
+		<node id="118" label="Krikamol Muandet">
+
+		</node>
+		<node id="119" label="Timm Meyer">
+
+		</node>
+
+	</nodes>
+
+	<edges>
+
+		<edge source="2" target="51" weight="1.0">
+		</edge>
+		<edge source="3" target="81" weight="1.0">
+		</edge>
+		<edge source="4" target="9" weight="1.0">
+		</edge>
+		<edge source="18" target="20" weight="1.0">
+		</edge>
+		<edge source="21" target="81" weight="1.0">
+		</edge>
+		<edge source="25" target="87" weight="1.0">
+		</edge>
+		<edge source="30" target="87" weight="1.0">
+		</edge>
+		<edge source="41" target="9" weight="1.0">
+		</edge>
+		<edge source="46" target="20" weight="1.0">
+		</edge>
+		<edge source="47" target="20" weight="1.0">
+		</edge>
+		<edge source="49" target="81" weight="1.0">
+		</edge>
+		<edge source="51" target="87" weight="1.0">
+		</edge>
+		<edge source="85" target="87" weight="1.0">
+		</edge>
+		<edge source="94" target="9" weight="1.0">
+		</edge>
+
+	</edges>
+
+</graph>
+</gexf>

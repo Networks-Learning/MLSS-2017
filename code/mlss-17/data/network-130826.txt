@@ -1,0 +1,429 @@
+1,Been Kim
+2,Adith Swaminathan
+3,Adrin Jalali
+4,Chris Lloyd
+5,Alberto Garcia-Duran
+6,Alice Schoenauer Sebag
+7,Alon Cohen
+8,Anastasia Pentina
+9,Andrew McDonald
+10,Archana Nottamkandath
+11,Arnaud Joly
+12,Audrey Durand
+13,Beyza Ermis
+14,Brooks Paige
+15,Calvin Seward
+16,Carlus Deneke
+17,Carmeline Dsilva
+18,Christoph Dann
+19,Christopher Ball
+20,Dan-Theodor Oneata
+21,Daniel Korzekwa
+22,Daniel Bengs
+23,David Reshef
+24,Diego Peteiro-Barral
+25,Dong Nguyen
+26,Douwe Kiela
+27,Efthymia Chrysanthidou
+28,Elsa Bernard
+29,Evan Archer
+30,Evelina Gabasova
+31,Faisal Mahmood
+32,Francesco Paolo Casale
+33,Fritz Hohl
+34,Gabriel Synnaeve
+35,Gertjan van den Burg
+36,Gina Grunhage
+37,Golnoosh Farnadi
+38,Guillaume Dehaene
+39,Hang Yu
+40,Hong Ge
+41,Hugo Grimmett
+42,Ingmar Schuster
+43,James McGuire
+44,Jana Jankova
+45,Jennifer Healey
+46,Johannes Kulick
+47,Jorge Guevara Diaz
+48,Julien-Charles Levesque
+49,Kairit Sirts
+50,Karolina Brodzka
+51,Karthik Raman
+52,Kartik Nanda
+53,Magda Gregorova
+54,Marco Adurno
+55,Maria Myrto Folia
+56,Marijn Stollenga
+57,Marinka Zitnik
+58,Mario Lucic
+59,Mark Blaxall
+60,Mark van der Wilk
+61,Markus Peters
+62,Marta Soare
+63,Martin Schiegg
+64,Marzyeh Ghassemi
+65,Matteo Pirotta
+66,Matthaus Kleindessner
+67,Matthew Meisner
+68,Matthias Kuemmerer
+69,Michael Kieweg
+70,Ming-Ming Cheng
+71,Molly Lewis
+72,Nelle Varoquaux
+73,Nora Speicher
+74,Peter Krafft
+75,Philipp Moritz
+76,Quoc Khanh DO
+77,Remi Lemonnier
+78,Rishi Relan
+79,Rowan McAllister
+80,Safiye Celik
+81,Samuel Ronnqvist
+82,Sarah Marzen
+83,Sarah Brown
+84,Sebastian Urban
+85,Shrihari Vasudevan
+86,Sofia Nikitaki
+87,Sowmya Vajjala Balakrishna
+88,Stefan Otte
+89,Susana Zoghbi
+90,Syeda Saleha Raza
+91,Teppo Niinim?ki
+92,Thomas Provoost
+93,Tobias Wissel
+94,Tom Gunter
+95,Tong Wang
+96,Xavier Mouy
+97,Yarin Gal
+98,Yoav Haimovitch
+99,Yuxin Chen
+100,Zhemin Zhu
+101,Philipp Hennig
+102,Shervin Safavi
+103,Bernhard Schoelkopf
+104,Chris Bishop
+105,Silvia
+106,Geiger
+107,Tatiana Fomina
+108,Chloe-Agathe Azencott
+109,Niko Schenk
+110,David Lopez-Paz
+111,Zoubin Ghahramani
+112,Safia
+113,Behza
+114,Becky
+115,Kejam
+116,Elena
+117,Manu
+118,Krikamol Muandet
+119,Timm Meyer
+
+25,87
+30,87
+51,87
+85,87
+3,81
+21,81
+49,81
+2,51
+4,9
+94,9
+41,9
+18,20
+47,20
+46,20
+14,45
+62,45
+52,45
+64,45
+1,64
+23,64
+45,64
+74,64
+62,64
+6,45
+7,45
+101,45
+23,42
+74,42
+37,42
+28,42
+6,42
+95,42
+39,42
+10,45
+84,45
+30,45
+95,45
+58,45
+37,45
+47,52
+7,52
+45,52
+85,52
+2,52
+31,52
+83,57
+30,57
+10,57
+68,49
+63,49
+71,49
+8,23
+74,23
+1,23
+56,36
+83,36
+93,36
+53,36
+62,36
+14,36
+43,36
+18,36
+92,83
+57,83
+11,83
+59,1
+55,27
+83,27
+86,27
+,33
+70,33
+45,33
+100,33
+73,3
+23,3
+102,3
+83,3
+14,3
+66,3
+2,92
+89,92
+37,92
+30,92
+71,92
+10,92
+11,92
+83,92
+1,92
+73,92
+93,92
+54,92
+35,92
+87,30
+37,30
+71,30
+92,30
+10,30
+89,30
+65,30
+58,30
+7,30
+11,30
+2,30
+45,30
+95,30
+25,30
+83,30
+35,30
+68,11
+78,11
+63,11
+72,11
+83,11
+84,11
+10,11
+89,11
+30,11
+71,11
+10,89
+11,89
+30,89
+71,89
+2,89
+,89
+69,89
+73,89
+93,89
+103,2
+104,2
+52,2
+85,2
+,2
+,2
+76,2
+31,2
+47,2
+11,2
+71,2
+30,2
+102,2
+10,2
+78,2
+89,2
+87,10
+84,10
+29,10
+57,10
+78,10
+11,10
+30,10
+25,10
+71,10
+92,10
+89,10
+2,10
+2,61
+5,61
+9,61
+38,61
+54,61
+71,61
+7,72
+45,72
+38,72
+54,72
+58,72
+47,72
+68,72
+91,72
+18,96
+43,96
+48,96
+53,96
+66,96
+77,96
+80,96
+86,96
+91,96
+77,71
+30,71
+2,71
+5,71
+89,71
+,71
+92,71
+10,71
+11,71
+17,71
+49,71
+61,71
+58,99
+95,99
+42,99
+41,87
+66,87
+10,87
+29,87
+100,87
+88,87
+96,87
+46,87
+27,87
+33,59
+16,59
+1,59
+21,59
+39,59
+70,59
+14,42
+1,42
+59,42
+60,42
+107,42
+78,42
+67,42
+58,42
+36,42
+26,42
+88,42
+36,53
+56,53
+94,53
+30,53
+4,53
+96,53
+38,53
+53,38
+32,38
+5,38
+41,38
+29,38
+7,38
+71,38
+39,66
+100,66
+53,66
+73,66
+15,66
+83,63
+11,63
+49,63
+53,63
+6,63
+35,63
+17,63
+1,63
+6,81
+1,81
+14,81
+15,81
+4,81
+30,81
+51,81
+74,81
+60,81
+91,81
+49,68
+11,68
+1,68
+63,68
+54,68
+42,64
+85,64
+110,51
+74,51
+78,51
+91,51
+1,51
+25,51
+13,51
+95,51
+,51
+62,51
+49,51
+107,51
+67,51
+,51
+68,51
+6,51
+99,51
+1,9
+73,9
+110,9
+3,9
+14,9
+44,9
+20,22
+98,22
+67,22
+96,22
+116,22
+70,22
+11,22
+80,22
+91,22
+26,22
+98,20
+62,20
+21,20
+9,20
+56,20
+53,20
+15,20
+71,20
+64,20
+35,20
+30,20
+81,20
+
