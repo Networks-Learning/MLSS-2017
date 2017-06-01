@@ -14,7 +14,7 @@ Getting started
 ---------------
 
 For the practical, you will need to work from a MAC or a linux machine (either locally, or remotely
-using ssh). Download the code package (https://github.com/Networks-Learning/ mlss-2017) and compile it as:
+using ssh). Download the [code](https://github.com/Networks-Learning/MLSS-2017/tree/master/code) and compile it as:
 
     $ cd code/ 
 
