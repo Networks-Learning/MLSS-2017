@@ -22,4 +22,4 @@ using ssh). Download the [code](https://github.com/Networks-Learning/MLSS-2017/t
 
 Several warnings might appear when you compile the code package. As long as you do not get an Error message, you are fine. 
 
-Now you can go to the subfolder mlss-17/ where you will start creating net- works and coding!
+Now you can go to the subfolder mlss-17/ where you will start creating networks and coding following the tutorial [handout](https://github.com/Networks-Learning/MLSS-2017/blob/master/mlss-17-networks.pdf)!
