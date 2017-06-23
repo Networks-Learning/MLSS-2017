@@ -10,7 +10,7 @@ int main(int argc, char* argv[]) {
   // directed graph (smart pointer to TNGraph object)
   PNGraph PGraph = TNGraph::New(); TIntStrH GraphNodeLabels;
 
-  // TODO: modify code to create double star network in Fig. 1
+  // TODO: modify code to create double star network on the board
   for (int i=0; i<10; i++) { PGraph->AddNode(i); GraphNodeLabels.AddDat(i) = TStr::Fmt("%d", i); }
   for (int i=1; i<10; i++) { PGraph->AddEdge(i, 0); } // star
   // TODO: END
@@ -34,9 +34,9 @@ int main(int argc, char* argv[]) {
   // (smart pointer to TIntFltNEDNet object)
   PIntFltNEDNet PNetwork = TIntFltNEDNet::New(); TIntStrH NetworkNodeLabels;
 
-  // TODO: modify code to create network in Fig. 2
+  // TODO: modify code to only connect nodes i -> j when value stored at node i is smaller than value in node j
   for (int i=0; i<10; i++) {
-	  PNetwork->AddNode(i, TInt::Rnd.GetUniDevInt(100));
+	  PNetwork->AddNode(i, TInt::Rnd.GetUniDevInt(100)); // Store a random value at node i
 	  NetworkNodeLabels.AddDat(i) = TStr::Fmt("%d (%d)", i, PNetwork->GetNDat(i).Val); }
   for (int i=0; i<10; i++) {
 	  for (int j=i+1; j<10; j++) { PNetwork->AddEdge(i, j, TFlt::Rnd.GetUniDev()); } // DAG
